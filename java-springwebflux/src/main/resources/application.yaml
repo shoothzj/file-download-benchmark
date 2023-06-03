@@ -1,0 +1,5 @@
+server:
+  port: 22222
+spring:
+  webflux:
+    static-path-pattern: /resources/**
